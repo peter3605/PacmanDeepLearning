@@ -1,5 +1,5 @@
 # PacmanDeepLearning
-he bulk of where we will be working is in multiAgents.py, go check that out after reading this and read
+The bulk of where we will be working is in multiAgents.py, go check that out after reading this and read
 the comments that I have included. The way the program works is you can execute the pacman.py file with
 your specified arguments. Flags you can pass are under pacman.py readCommand(args) function. These
 arguments will control things like, what level you use, number of ghosts, and what agent we use (though
